@@ -9,3 +9,4 @@ Models used in my analysis:
 5) Random Forest Classifier
 6) XG Boost Classification
 
+Ultimately, I found out that Logistic Regression gave the best results while detecting a credit card fraud.
